@@ -27,7 +27,7 @@ Especializado en desarrollo backend con Java y JavaScript.
 ### 📫 Conectemos
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jefferson-murillo-palacios-4a25671b3)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jefferdaniel2001@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:murillopalacioj@gmail.com)
 
 ---
 ⭐️ From [JefersonMurilloDev](https://github.com/JefersonMurilloDev)
