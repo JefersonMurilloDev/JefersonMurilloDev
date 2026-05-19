@@ -2,8 +2,7 @@
 
 ## Desarrollador Full Stack | Java • Node.js • TypeScript • Vue.js
 
-Apasionado por crear soluciones tecnológicas robustas y escalables. 
-Especializado en desarrollo backend con Java y JavaScript.
+Apasionado por crear soluciones tecnológicas robustas y escalables.
 
 ### 🚀 Tecnologías que uso
 
